@@ -1,0 +1,32 @@
+#main-headline {
+ text-align: centered;
+ color:blue;
+             }
+
+.alignment {
+  text-align: centered;
+           }
+.place-description {
+  font-style: Verdana;
+  color:006400
+                   }
+  
+.person-description {
+  color:purple;
+                    }
+        
+.top-favorite {
+  font-weight:bold;
+  color:red;
+              }
+
+.important-point {
+  text-decoration: underline;
+                 }
+
+.emphasis {
+  font-style:italic;
+          }
+          
+                    
+
